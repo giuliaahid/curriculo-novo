@@ -54,5 +54,54 @@ ul {
 
 .experiencia {
     display: flex;
+    align-items: center;
+    justify-content: space-between
+}
+
+
+
+.esquerda {
+    width: 20%;
+    text-align: right;
+}
+
+
+.titulo-sessao,
+.subtitulo-sessao {
+    font-size: 22px;
+    text-transform: uppercase;
+    margin-bottom: 10px;
 
 }
+.subtitulo-sessao {
+    font-size: 16px;
+}
+
+.direita {
+    width: 78%;
+    margin: 20px;
+}
+
+.data {
+    margin-bottom: 10px;
+    font-style: italic
+}
+
+
+.descricao {
+    margin-bottom: 10px;
+}
+
+.aloi {
+    margin-bottom: 10px;
+}
+
+.rodape {
+background: #333;
+color: #f1f1f1;
+text-align:center;
+padding: 20px;
+margin-top: 30px;
+}
+
+
