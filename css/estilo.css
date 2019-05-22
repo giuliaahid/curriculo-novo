@@ -6,7 +6,7 @@ body {
 
     font-family: 'Ubuntu', sans-serif;
     font-size: 14px;
-    color: #tralha333
+    color: #333
 }
 
 .conteudo {
@@ -48,6 +48,7 @@ ul {
     display: flex;
     justify-content: space-between;
     width: 100px;
+    
 
 }
 
