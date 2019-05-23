@@ -105,4 +105,56 @@ padding: 20px;
 margin-top: 30px;
 }
 
+.habilidades {
+    display: flex;
+    justify-content: space-between
+}
+                        
+.barra {
+    background-color: #000;
+    height: 10px;
+    border-radius: 5px;
+
+
+}
+
+.skill {
+    width: 48%;
+}
+
+.skill div {
+    display: flex;
+    
+}
+
+.skill div span {
+    margin-right: 10px;
+    width: 100px;
+}
+
+.habilidade-cem {
+    width: 100%;
+
+}
+
+.habilidade-noventa {
+width: 90%;
+}
+.habilidade-oitenta {
+width: 80%;
+
+}
+.habilidade-setenta {
+    width: 70%;
+
+}
+.habilidade-sessenta {
+    width: 60%;
+
+}
+.habilidade-cinquenta {
+width: 50%;
+}
+
+
 
